@@ -19,6 +19,9 @@ recipes:
 - pivotal_workstation::git_config_global_defaults
 - sprout-osx-git::git_scripts
 
+# develophent (go)
+- sprout-osx-apps::go
+
 # development (rails)
 # - pivotal_workstation::rvm
 # - pivotal_workstation::gem_setup
