@@ -50,6 +50,8 @@ recipes:
 - sprout-osx-apps::virtualbox
 - sprout-osx-apps::vagrant
 
+- sprout-osx-apps::remote_desktop
+
 # apps (editors)
 
 # - pivotal_workstation::textmate
