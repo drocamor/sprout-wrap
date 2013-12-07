@@ -39,7 +39,7 @@ recipes:
 - sprout-osx-apps::dropbox
 - sprout-osx-apps::chrome
 # - pivotal_workstation::mouse_locator
-# - pivotal_workstation::menumeters
+- sprout-osx-apps::menumeters
 # - pivotal_workstation::bettertouchtool
 # - pivotal_workstation::ccmenu
 - pivotal_workstation::github_for_mac
